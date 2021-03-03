@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  /* width: 375px;
+  height: 1225px;
+  background-color: white; */
+}
+
+h1 {
+  font-family: "Nunito", sans-serif;
+  font-weight: Bold;
+  font-size: 24px;
+  color: #0a2239;
+  text-align: center;
+  line-height: 32px;
+  text-transform: capitalize;
+}
+h2 {
+  font-family: "Nunito";
+  font-weight: Bold;
+  font-size: 16px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 22px;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+h3 {
+  font-family: "Nunito";
+  font-weight: Bold;
+  font-size: 15px;
+  color: #0a2239;
+  text-align: left;
+  line-height: 10px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+h4 {
+  font-family: "Nunito";
+  font-weight: 300;
+  font-size: 13px;
+  color: #8492a6;
+  text-align: center;
+  line-height: 18px;
+  letter-spacing: -0.13px;
+}
+h5 {
+  font-family: "Nunito";
+  font-weight: 300;
+  font-size: 13px;
+  color: #8492a6;
+  text-align: left;
+  line-height: 18px;
+  letter-spacing: -0.13px;
+  margin: -10px 0;
+}
+h6 {
+  font-family: "Nunito";
+  font-weight: Bold;
+  font-size: 18px;
+  color: #0a2239;
+  text-align: center;
+  line-height: 24px;
+  position: relative;
+}
+p {
+  font-family: "Nunito";
+  font-size: 12px;
+  color: #0a2239;
+  font-weight: 300;
+  text-align: left;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+}

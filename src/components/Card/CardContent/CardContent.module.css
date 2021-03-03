@@ -1,0 +1,35 @@
+.column1 {
+  float: left;
+  width: 5%;
+  padding: 10px;
+}
+.column2 {
+  float: left;
+  width: 80%;
+}
+
+.row {
+  width: 100%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.container {
+  padding: 0px 10px;
+}
+.hide {
+  height: 26px;
+  background-color: #2355fc0f;
+}
+span p {
+  font-family: "Nunito";
+  font-size: 12px;
+  color: #194dff;
+  font-weight: 300;
+  line-height: 32px;
+  opacity: 90%;
+  text-align: center !important;
+  letter-spacing: -0.12px;
+}

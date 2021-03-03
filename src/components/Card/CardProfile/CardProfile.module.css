@@ -1,0 +1,26 @@
+.column1 {
+  float: left;
+  width: 10%;
+  padding: 10px;
+}
+.column2 {
+  float: left;
+  width: 70%;
+}
+
+.row {
+  width: 100%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.container {
+  padding: 10px;
+}
+.profile {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}

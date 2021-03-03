@@ -1,0 +1,6 @@
+.cardHeader {
+  height: 82px;
+  border-radius: 6px 6px 0px 0px;
+  background-color: #202942 !important;
+  padding: 10px;
+}

@@ -1,0 +1,17 @@
+h1::after {
+  content: "";
+  width: 70px;
+  height: 4px;
+  background: #3054d6;
+  position: absolute;
+  bottom: -10px;
+  left: calc(50% - 10%);
+}
+
+h1 {
+  position: relative;
+}
+
+.container {
+  padding: 20px;
+}

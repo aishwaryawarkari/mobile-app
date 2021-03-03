@@ -1,0 +1,32 @@
+.column {
+  float: left;
+  width: 33.33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+}
+.row {
+  width: 100%;
+}
+.container {
+  margin: auto;
+  width: 375px;
+  height: 58px;
+  background-color: #ffffff;
+  opacity: 100%;
+  box-shadow: 0px 3px 6px #00000029;
+}
+.container:after {
+  display: block;
+  clear: both;
+}
+.logo {
+  width: 53px;
+  height: 47px;
+}
+.profile {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
