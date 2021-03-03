@@ -29,7 +29,7 @@ span p {
   color: #194dff;
   font-weight: 300;
   line-height: 32px;
-  opacity: 90%;
+  /* opacity: 90%; */
   text-align: center !important;
   letter-spacing: -0.12px;
 }
